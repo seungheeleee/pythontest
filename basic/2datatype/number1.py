@@ -1,0 +1,8 @@
+print(25 + 9)
+print(25 - 9)
+print(25 * 9)
+print(25 / 9)
+print(2**10)
+print(25 % 9)
+print(25 // 9)
+print(-25 // 9)
