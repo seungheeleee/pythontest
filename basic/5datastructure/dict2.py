@@ -1,0 +1,13 @@
+months = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May'}
+print(months.get(10))
+# print(months[10])
+keyset = months.keys()
+print(keyset)
+keylist = list(keyset)
+print(keylist)
+valuesall = months.values()
+print(valuesall)
+valuelist = list(valuesall)
+print(valuelist)
+items = months.items()
+print(items)
